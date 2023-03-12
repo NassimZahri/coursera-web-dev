@@ -4,3 +4,6 @@ HTML entity references:
 • &nbsp; == no breaking space
 • &lt; == less than (<) / &gt; == greater than (>)
 • &copy == copyright sign
+
+CSS specificity(score):
+style < ID < class,pseudo-class,attribute < # of Elements
