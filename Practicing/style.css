@@ -27,7 +27,7 @@
     opacity: 80%;
 }
 
-@media (max-width: 700px) {
+/*@media (max-width: 700px) {
     #div1 {
         background-color: maroon;
         width: 50px;
@@ -43,4 +43,4 @@
         border: 2px black solid;
         opacity: 80%;
     }
-}
+}*/
