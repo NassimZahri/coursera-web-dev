@@ -6,10 +6,11 @@ for (var i = 0; i < names.length; i++) {
   var firstLetter = names[i].charAt(0).toLowerCase();
 
   if (firstLetter === 'j') {
-    document.write("byeSpeaker(names[i])");
+    console.log("bye Speaker " + names[i]);
   }
   else {
-    document.write("helloSpeaker(names[i])");  }
+    console.log("hello Speaker " + names[i]);
+  }
 }
 
 })();
