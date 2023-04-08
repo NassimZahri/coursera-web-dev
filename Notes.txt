@@ -1,3 +1,5 @@
+https://nassimzahri.github.io/coursera-web-dev/
+
 https://github.com/jhu-ep-coursera/fullstack-course4
 
 == HTML entity references:
@@ -11,3 +13,5 @@ https://github.com/jhu-ep-coursera/fullstack-course4
 
 style < ID < class,pseudo-class,attribute < # of Elements
 • https://polypane.app/css-specificity-calculator/
+
+
